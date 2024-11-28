@@ -37,17 +37,6 @@ Hi, I’m **Yash Shah**, an enthusiastic **Python Developer** passionate about b
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🌟 Strengths
 - ⏱️ Time Management
 - 🤝 Collaboration & Team Communication
