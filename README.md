@@ -1,6 +1,6 @@
-# 🚀 Welcome to My GitHub Profile! 🌟
+# 🚀 Hi I'm Yash Shah 🌟
 
-Hi, I’m **Yash Shah**, an enthusiastic **Python Developer** passionate about building scalable web applications and solving real-world problems with technology. With hands-on experience in **Django**, **Flask**, and RESTful APIs, I’m constantly exploring new tools and frameworks to enhance my craft.
+Hi, I’m **Yash Shah**, an enthusiastic **Software Developer** passionate about building scalable web applications and solving real-world problems with technology. With hands-on experience in **Django**, **Flask**, and RESTful APIs, I’m constantly exploring new tools and frameworks to enhance my craft.
 
 ---
 
@@ -18,12 +18,6 @@ Hi, I’m **Yash Shah**, an enthusiastic **Python Developer** passionate about b
 - **Database Management**: MySQL, MongoDB
 - **Other Tools**: Git, GitHub, PyCharm, VS Code
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-
----
-
-## 🏆 Achievements
-- 🎖️ **Hackathon Participation**: Represented in the Regional Round of **New India Vibrant Hackathon 2023**
-- 🥇 **Diploma in Web Designing and Multimedia** (2018–2019)
 
 ---
 
